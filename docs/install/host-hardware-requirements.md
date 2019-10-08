@@ -9,7 +9,12 @@ If you need help requesting a server environment, please see the [Sample IT Depa
 * Ubuntu 18.04 LTS (also: Ubuntu 16.04 LTS)
 * CentOS 7.x
 * MacOS (only for: Demo ISLE Installation)
-* Windows 10 Professional or Enterprise (only for: Demo ISLE Installation)
+  - Hardware: Must be 2010 or newer model
+  - Docker supports the current and previous 2 release of MacOS
+* Windows 10 Professional, Enterprise, or Education Editions (only for: Demo ISLE Installation)
+  - 64-bit processor with Second Level Address Translation
+  - Hardware virtualization support enabled in BIOS
+  - See the [Docker website](https://docs.docker.com/docker-for-windows/install/) for more details on hardware requirements
 * (Read the [Warning about Red Hat Install](../appendices/redhat.md))
 
 **Please select your hardware environment:**
